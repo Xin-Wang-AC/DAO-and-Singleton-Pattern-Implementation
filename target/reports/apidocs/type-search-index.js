@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dataaccesslayer","l":"DataSourceSingleton"},{"p":"run","l":"Launcher"},{"p":"transferobjects","l":"RecipientDTO"},{"p":"businesslayer","l":"RecipientsBusinessLogic"},{"p":"dataaccesslayer","l":"RecipientsDao"},{"p":"dataaccesslayer","l":"RecipientsDaoImpl"}];updateSearchResults();
