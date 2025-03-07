@@ -1,6 +1,5 @@
 # DAO-and-Singleton-Pattern-Implementation
-This is a console application to explore the DAO and Singleton Design Pattern.
-It calls RecipientsBusinessLogic class on business layer in which it calls RecipientsDaoImpl class on data access layer, processes RecipientDTO as data transfer objects and displays the data in a formatted tabular form preceded by column headings.
+This is a console application to explore the DAO and Singleton Design Pattern. It calls RecipientsBusinessLogic class on business layer in which it calls RecipientsDaoImpl class on data access layer, processes RecipientDTO as data transfer objects and displays the data in a formatted tabular form preceded by column headings.
 
 •	Designed a Java console application using NetBeans IDE and MySQL, implementing Object-Oriented Programming principles and Design Patterns (DAO and Singleton)
 
